@@ -11,3 +11,7 @@ https://lennileo.github.io/Interface/
 
 
 <a href="https://github.com/LenniLeo/Interface/blob/main/Konzept%20%2B%20Moodboard%20Lennart%20B%C3%BCcher%20.pdf">Konzept + Mooadboard</a>
+
+<a href="https://github.com/LenniLeo/Interface/blob/main/Marvel%20UX.pdf">Programm Marvel</a>
+
+<a href="https://github.com/LenniLeo/Interface/blob/main/Lowfidelity%20Interface.pdf">Lowfidelity Interface</a>
