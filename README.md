@@ -19,3 +19,5 @@ https://lennileo.github.io/Interface/
 <a href="https://xd.adobe.com/view/9732aa8c-676c-45a9-b11b-28fdfeb11cef-c261/?fullscreen&hints=off">Highfidelity Interface</a>
 
  <a href="https://github.com/LenniLeo/Interface/blob/main/Medical%20Compact%20Test%20and%20Evaluate%20-Semester%20Dashboard.pdf"> Testing</a>
+ 
+  <a href="https://xd.adobe.com/view/6b2dc692-29f6-42a0-a4a5-80b3b27604f2-3e7e/"> Enhanced Highfidelity Medical Compact</a>
