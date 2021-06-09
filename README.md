@@ -24,3 +24,4 @@ https://lennileo.github.io/Interface/
 
  <a href="https://github.com/LenniLeo/Interface/blob/main/Medical%20Compact.pdf">Medical Compact Prototyp Enhancement Dokumentation</a>
 
+   <a href="https://github.com/LenniLeo/Interface/blob/main/VUI.pdf">VUI-Konzept</a>
