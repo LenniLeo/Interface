@@ -24,4 +24,7 @@ https://lennileo.github.io/Interface/
 
  <a href="https://github.com/LenniLeo/Interface/blob/main/Medical%20Compact.pdf">Medical Compact Prototyp Enhancement Dokumentation</a>
 
-   <a href="https://github.com/LenniLeo/Interface/blob/main/VUI.pdf">VUI-Konzept</a>
+  <a href="https://github.com/LenniLeo/Interface/blob/main/VUI.pdf">VUI-Konzept Low-fid</a>
+   
+  <a href=" https://github.com/LenniLeo/Interface/blob/main/Konzeptentwurf%20Sprachassistent%20(1).pdf">VUI-Konzept</a>
+ 
