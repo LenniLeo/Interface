@@ -29,5 +29,5 @@ https://lennileo.github.io/Interface/
   <a href=" https://github.com/LenniLeo/Interface/blob/main/Konzeptentwurf%20Sprachassistent%20(1).pdf">VUI-Konzept</a>
   
   
-  <a href="https://xd.adobe.com/view/d1d82056-8d41-4e27-9cc4-79a604c39228-848b/">VUI-Umsetzung</a>      
+  <a href="https://xd.adobe.com/view/d1d82056-8d41-4e27-9cc4-79a604c39228-848b/?fullscreen&hints=off">VUI-Umsetzung</a>      
  
